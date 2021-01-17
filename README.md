@@ -8,12 +8,11 @@ Create a website with CSS3 Flexbox for a tea shop.
 
 Install the project locally
 ```bash
-https://github.com/SenayYakut/Website-With-CSS3-Flexbox.git
+https://github.com/SenayYakut/Tea-Cozy.git
 ```
 
 ## Usage
 Go to this  
-https://github.com/SenayYakut/Tea-Cozy.git
 
 
 ## Contributing
